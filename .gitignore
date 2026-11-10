@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+dist/
+career-data.json
+batches/
+.env
+.DS_Store
